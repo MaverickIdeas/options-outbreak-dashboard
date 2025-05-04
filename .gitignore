@@ -1,0 +1,27 @@
+# Bytecode
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+.env
+.env.*
+
+# Jupyter/IPython
+.ipynb_checkpoints
+
+# Logs and local data
+*.log
+*.csv
+*.db
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+
+# Transformer model cache
+~/.cache/huggingface

@@ -1,0 +1,9 @@
+dash==2.14.2
+yfinance
+pandas
+plotly
+scikit-learn
+transformers
+requests
+python-dotenv
+torch
