@@ -7,3 +7,6 @@ transformers
 requests
 python-dotenv
 torch
+numpy==1.26.4
+pandas-ta==0.3.14b0
+pytz
